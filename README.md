@@ -3,17 +3,23 @@
 ## Install dependencies
 
 ```sh
-npm install
+yarn
 ```
 
 ## Run development server
 
 ```sh
-npm start
+yarn start
 ```
 
 ## Build for production
 
 ```sh
-npm run build
+yarn build
+```
+
+## Build + deploy (Github pages)
+
+```sh
+yarn deploy
 ```
